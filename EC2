@@ -107,16 +107,17 @@ void test()
 
 /**
 Pseudocode:
+#Determine whether the customer wants a drink or quit.
 #Sell a drink to customer.
 ## Determine which drink price and amount to use.
 ## Check if the customer's payment amount is valid.
 ## Reduce the amount of drinks left.
-#Track amount of money made
+#Track amount of money made.
 ## Get amount of money spent by customer depending of the option
     the customer chose.
 ## Add amount of money spent by the customer to the total 
     money earned by the machine.
-
+#Display money made when costumer is finished buying.
 **/
 
 
